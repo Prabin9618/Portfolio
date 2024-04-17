@@ -1,0 +1,48 @@
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d5ffbc;
+  width: 1920px;
+  height: 1080px;
+}
+.prabin-dash1 {
+  margin: 0;
+}
+.prabin-dash-data-container1 {
+  position: absolute;
+  top: 185px;
+  left: 672px;
+  display: inline-block;
+  width: 331px;
+  height: 140px;
+}
+.photo-1-icon1 {
+  position: absolute;
+  top: 86px;
+  left: 129px;
+  border-radius: 213px;
+  width: 296px;
+  height: 291px;
+  object-fit: cover;
+}
+.linkedin {
+  position: absolute;
+  top: 115px;
+  left: 1431px;
+  text-decoration: underline;
+  color: inherit;
+  display: inline-block;
+  width: 369px;
+}
+.rectangle-root {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1080px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-29xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
